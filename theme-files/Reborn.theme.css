@@ -22,7 +22,7 @@ Registered: Black Box Theme
 
 :root {
   --roundness: 50px; /* edit roundness of icons from 0px to 50px */
- --main-color: #007dbd; /* Main Color */     
+ --main-color: #000000; /* Main Color */     
   --hover-color: #03679b; /* Hover Color */
   --home-color: #eee; /* Change home icon color */
   --home-size: 24px; /* size of the home icon */
